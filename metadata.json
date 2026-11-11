@@ -1,0 +1,6 @@
+{
+  "name": "ECLIPSE PROTOCOL: Blind Maze Co-op",
+  "description": "VOID SIGNAL: Asymmetric two-player cooperative game. The Navigator sees the lethal maze blueprint but cannot move; the Operative moves in pitch darkness. Communication is survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
